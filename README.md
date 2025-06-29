@@ -7,7 +7,7 @@
 **Dataset Link : https://www.kaggle.com/datasets/chandrashekarnatesh/poultry-diseases
 
 
-**[GO TO LIVE DEMO](https://huggingface.co/spaces/Bharathchilaka/poultry-infer-api)**
+**[GO TO Web App LIVE DEMO](https://huggingface.co/spaces/Bharathchilaka/poultry-infer-api)**
 
 ---
 
