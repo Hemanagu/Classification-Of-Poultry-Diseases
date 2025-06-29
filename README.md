@@ -4,6 +4,8 @@
 
 > 🎯 **Mission:** Empower poultry owners with fast, reliable, and accessible disease detection using technology.
 
+**Dataset Link : https://www.kaggle.com/datasets/chandrashekarnatesh/poultry-diseases
+
 
 **[GO TO LIVE DEMO](https://huggingface.co/spaces/Bharathchilaka/poultry-infer-api)**
 
@@ -107,8 +109,8 @@ Then open your browser and visit: [http://localhost:5000](http://localhost:5000)
 | ---------------------------- | ---------------------------------- |
 | **Bharath Chilaka**          | Project Development & Architecture |
 | **Donda Nagamma**            | UI/UX Design & Team Coordination   |
-| **Battula BenarjiBabu**      | Project Support                    |
-| **Banavath SaiKishore Naik** | Project Support                    |
+| **Battula BenarjiBabu**      | Data Collection & PreProcessing    |
+| **Banavath SaiKishore Naik** | Documentation and Testing          |
 
 ---
 
