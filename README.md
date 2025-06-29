@@ -6,9 +6,6 @@
 
 **Dataset Link : https://www.kaggle.com/datasets/chandrashekarnatesh/poultry-diseases
 
-
-**[GO TO Web App LIVE DEMO](https://huggingface.co/spaces/Bharathchilaka/poultry-infer-api)**
-
 ---
 
 ## 📸 How It Works
@@ -21,6 +18,8 @@
    * Salmonella
    * Newcastle Disease
 3. ✅ Instant prediction result helps guide timely treatment.
+
+**[GO TO Web App LIVE DEMO](https://huggingface.co/spaces/Bharathchilaka/poultry-infer-api)**
 
 ---
 
